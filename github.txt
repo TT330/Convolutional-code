@@ -1,0 +1,24 @@
+Repository name: 仓库名称
+
+Description(可选): 仓库描述介绍
+
+Public, Private : 仓库权限（公开共享，私有或指定合作者）
+
+Initialize this repository with a README: 添加一个README.md
+
+gitignore: 不需要进行版本管理的仓库类型，对应生成文件.gitignore
+
+license: 证书类型，对应生成文件LICENSE
+
+#############################################################################
+
+git clone https://github.com/TT330/XXX.git（替换成之前复制的地址）
+
+git add . 
+
+git commit  -m （）
+
+git branch xxxx (创建分支，xxxx为其他分支，例如test分支)
+
+git push -u origin XXXX(master/其他分支）
+
